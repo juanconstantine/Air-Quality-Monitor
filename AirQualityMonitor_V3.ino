@@ -380,7 +380,7 @@ void loop() {
       Serial.println("All Data Sent :D.");
       Serial.println("Rest 10 Seconds");
       //Delay, and Query again
-      delay(10000);
+      delay(10001);
     }
 
   }
